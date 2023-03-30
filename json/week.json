@@ -1,0 +1,26 @@
+{
+    "products": [
+        {
+            "id": 4,
+            "title": "Cyberpunk Cocomo #2",
+            "price": 580,
+            "img": "3.png",
+            "date": "2024-01-17T03:24:00"
+        },
+        {
+            "id": 5,
+            "title": "Charge, Qi tiao yu #2",
+            "price": 680,
+            "img": "4.png",
+            "date": "2023-07-12T09:05:00" 
+            
+        },
+        {
+            "id": 6,
+            "title": "Surgeon, Josh Rife #2",
+            "price": 780,
+            "img": "2.png",
+            "date": "2023-11-01T12:00:00" 
+        }
+    ]
+}
