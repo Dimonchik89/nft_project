@@ -1318,6 +1318,10 @@ body::before {
 @media (max-width: 767.98px) {
   .form-subscribe .form-subscribe__button {
     align-self: center;
+  }
+}
+@media (max-width: 479.98px) {
+  .form-subscribe .form-subscribe__button {
     margin-top: 2rem;
   }
 }
